@@ -1,4 +1,5 @@
 🍊 Fanta Landing Page
+
 Este é um projeto pessoal criado por lazer, inspirado na marca Fanta. A proposta foi desenvolver uma landing page interativa, vibrante e com animações utilizando HTML, CSS e JavaScript, com apoio da biblioteca GSAP.
 
 🚀 Tecnologias utilizadas
