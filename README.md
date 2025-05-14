@@ -48,5 +48,5 @@ Este é um projeto pessoal criado por lazer, inspirado na marca Fanta. A propost
 
 [🔍 Clique aqui para visualizar o projeto](https://devizinhocarlos.github.io/FANTA-landing-page/)
 
-Desenvolvido por [Matheus Peixoto]
+Desenvolvido por [Carlos Eduardo](https://github.com/DevizinhoCarlos?tab=repositories)
 
