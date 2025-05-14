@@ -48,3 +48,5 @@ Este é um projeto pessoal criado por lazer, inspirado na marca Fanta. A propost
 
 [🔍 Clique aqui para visualizar o projeto]
 
+Desenvolvido por [Matheus Peixoto]
+
